@@ -15,3 +15,12 @@ function multiply(a, b) {
   return a * b;
 }
 console.log(multiply(7, 6)); // Outputs: 42
+
+function divide(a, b) {
+  if (b === 0) {
+    throw new Error("Cannot divide by zero");
+  }
+  return a / b;
+}
+
+console.log(divide(20, 4)); // Outputs: 5
