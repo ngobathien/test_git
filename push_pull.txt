@@ -1,8 +1,0 @@
-Dev A đang code chức năng thêm sản phẩm vào giỏ hàng
-sản phẩm 
-nút thêm vào giỏ hàng
-nút dấu trừ sản phẩm 
-màu xanh
-nut like, nut danh gia, sao
-mau do
-nut mua sản phẩm bla bla
