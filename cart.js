@@ -10,3 +10,7 @@ function removeCart() {
 function getCart() {
   console.log("Lấy giỏ hàng");
 }
+
+function updateCart() {
+  console.log("Cập nhật giỏ hàng");
+}
